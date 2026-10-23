@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawel8108" alt="pawel8108" /></a> </p>
 
-- 🌱 I’m currently learning **Digital marketing basics for entrepreneurs and freelancers. ** I still want to develop my already acquired skills, especially in e-commerce and WMS programming.**
+- 🌱 I’m currently learning **Digital marketing basics for entrepreneurs and freelancers. ** I still want to build on my existing skills, especially in e-commerce and WMS programming.**
 
 - 📫 How to reach me: **paqlnis81@gmail.com**
 
