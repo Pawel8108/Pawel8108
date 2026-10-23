@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Digital marketing basics for entrepreneurs and freelancers. ** I still want to develop my already acquired skills, especially in e-commerce and WMS programming.**
 
-- 👨‍💻 All of my projects are available at [troopl.com/paqlnis81]
-
 - 📫 How to reach me: **paqlnis81@gmail.com**
 
 - ⚡ Fun fact **I think Im funny, and my laughter infects others.**
