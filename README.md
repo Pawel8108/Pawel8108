@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawel8108" alt="pawel8108" /></a> </p>
 
-- 🔭 I’m currently working on [Countrol_APP](https://countrolapp-4da7dc7c0589.herokuapp.com/)
-
-- 🌱 I’m currently learning **Digital marketing basics for entrepreneurs and freelancers.I still want to develop my already acquired skills, especially in e-commerce and WMS programming.**
+- 🌱 I’m currently learning **Digital marketing basics for entrepreneurs and freelancers. ** I still want to develop my already acquired skills, especially in e-commerce and WMS programming.**
 
 - 👨‍💻 All of my projects are available at [troopl.com/paqlnis81](troopl.com/paqlnis81)
 
-- 📫 How to reach me **paqlnis81@gmail.com**
+- 📫 How to reach me: **paqlnis81@gmail.com**
 
 - ⚡ Fun fact **I think Im funny, and my laughter infects others.**
 
